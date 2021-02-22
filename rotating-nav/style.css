@@ -41,7 +41,7 @@ body {
 }
 
 .container.show-nav .circle {
-  transform: rotate(-70deg);
+  transform: rotate(-60deg);
 }
 
 .circle button {
@@ -54,6 +54,10 @@ body {
   border: 0;
   font-size: 26px;
   color: #fff;
+}
+
+.circle button:focus {
+  outline: none;
 }
 
 .circle button#open {
