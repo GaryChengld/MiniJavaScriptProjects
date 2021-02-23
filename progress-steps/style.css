@@ -4,8 +4,9 @@
   --line-border-fill: #3498db;
   --line-border-empty: #e0e0e0;
 }
+
 * {
-  box-sizing: broder-box;
+  box-sizing: border-box;
 }
 
 body {
